@@ -1,0 +1,45 @@
+# Node.js files
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Compiled binary addons (if you build or use native addons)
+build/
+
+# Dependencies installed via npm
+/node_modules
+
+# Output of npm pack
+/*.tgz
+
+# React build output
+/build
+
+# .env.local - Local environment variables
+.env.local
+
+# .env.development - Development environment variables
+.env.development
+
+# .env.test - Test environment variables
+.env.test
+
+# .env.production - Production environment variables
+.env.production
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
